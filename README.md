@@ -1,5 +1,5 @@
 # Twitter-sentiment-analysis
-Analyzed the perception (Qualitative analysis) of ordinary people in India towards electric vehicles and companies operating in the EV sector using Twitter analysis
+This is a tool which helps in analysing the sentiment of tweets made by users on Twitter by using NLP(natural language proessing), and fetches the real-time data using Tweepy and Twitter developer account. For privacy reasons, I have not show my authentication key.
 
 AUTHENTICATION:-
 <img width="1138" alt="Screenshot 2022-12-27 at 2 27 45 AM" src="https://user-images.githubusercontent.com/78745855/209582958-435d81fa-609e-4517-9d77-bd3886578615.png">
