@@ -1,5 +1,5 @@
 # Twitter-sentiment-analysis
-This is a tool which helps in analysing the sentiment of tweets made by users on Twitter by using NLP(natural language proessing), and fetches the real-time data using Tweepy and Twitter developer account. For privacy reasons, I have not shown my authentication key.
+This is a tool which helps in analysing the sentiment of tweets made by users on Twitter by using NLP(natural language proessing), and fetches the real-time data using Tweepy and Twitter developer account. 
 
 AUTHENTICATION:-
 For authentication, I applied for a Twitter developer account from which I got the the authentication key which is important to establish the connection between the real-time data and the tool.
